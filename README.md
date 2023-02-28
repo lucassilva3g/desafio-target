@@ -1,10 +1,10 @@
-Desafios Target
+# Desafios Target
 Este repositório contém soluções para desafios propostos pela Target Sistemas.
 
-Pré-requisitos
+###cPré-requisitos
 Para executar as soluções deste repositório, é necessário ter o Node.js instalado em sua máquina. Caso ainda não tenha o Node.js instalado, você pode baixá-lo aqui.
 
-Executando os desafios
+### Executando os desafios
 Para executar cada um dos desafios, siga os seguintes passos:
 
 Abra o terminal e clone o repositório: 
@@ -24,8 +24,8 @@ node desafio2.js
 
 Os resultados do desafio serão exibidos no terminal.
 
-Autor
+### Autor
 lucassilva3g
 
-Licença
+### Licença
 Este projeto é licenciado sob a licença MIT - consulte o arquivo LICENSE.md para obter detalhes.
