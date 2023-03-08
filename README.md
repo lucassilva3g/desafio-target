@@ -9,7 +9,7 @@ Para executar cada um dos desafios, siga os seguintes passos:
 
 Abra o terminal e clone o repositório: 
 ```
-git clone https://github.com/lucassilva3g/desafios-target.git
+git clone https://github.com/lucassilva3g/desafio-target.git
 ```
 
 Acesse a pasta do desafio que deseja executar. Por exemplo, para executar o desafio 2, digite:
