@@ -1,13 +1,8 @@
-const numeroUsuario = parseInt(prompt("Digite um número: "));
+let INDICE = 13, SOMA = 0, K = 0;
 
-let fib = [0, 1];
-
-while (fib[fib.length - 1] < numeroUsuario) {
-  fib.push(fib[fib.length - 1] + fib[fib.length - 2]);
+while (K < INDICE) {
+  K = K + 1;
+  SOMA = SOMA + K;
 }
 
-if (fib.includes(numeroUsuario)) {
-  console.log(`${numeroUsuario} pertence à sequência de Fibonacci até ${fib[fib.length - 1]}.`);
-} else {
-  console.log(`${numeroUsuario} não pertence à sequência de Fibonacci até ${fib[fib.length - 1]}.`);
-}
+console.log(SOMA); // Saída: 91
