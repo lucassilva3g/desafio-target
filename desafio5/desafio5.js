@@ -1,9 +1,9 @@
-const original = 'exemplo';
+let str = "Olá, mundo!";
 
-let invertida = '';
+let strInvertida = "";
 
-for (let i = original.length - 1; i >= 0; i--) {
-  invertida += original[i];
+for (let i = str.length - 1; i >= 0; i--) {
+  strInvertida += str[i];
 }
 
-console.log(invertida);
+console.log(strInvertida);
